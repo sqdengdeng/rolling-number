@@ -1,5 +1,5 @@
 {
-  "name": "rolling-number1",
+  "name": "js-rolling-number",
   "version": "1.0.0",
   "description": "数字滚动加一和滚动减一效果",
   "main": "dist/rolling.cjs.js",
