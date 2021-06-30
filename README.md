@@ -6,6 +6,7 @@
 
 
 ## 效果如图
+demo.gif![demo](https://user-images.githubusercontent.com/49194092/123943875-21980280-d9cf-11eb-8c74-8804b110680e.gif)
 
 ## Install
 ```
