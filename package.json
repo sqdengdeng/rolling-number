@@ -1,0 +1,34 @@
+{
+  "name": "rolling-number1",
+  "version": "1.0.0",
+  "description": "数字滚动加一和滚动减一效果",
+  "main": "dist/rolling.cjs.js",
+  "module": "dist/rolling.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -cw",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqdengdeng/rolling-number.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "autoprefixer": "^9.7.6",
+    "eslint": "^7.29.0",
+    "less": "^4.1.1",
+    "rollup": "^2.52.4",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "author": "dengsiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqdengdeng/rolling-number/issues"
+  },
+  "homepage": "https://github.com/sqdengdeng/rolling-number#readme"
+}
