@@ -9,8 +9,8 @@
 demo.gif![demo](https://user-images.githubusercontent.com/49194092/123943875-21980280-d9cf-11eb-8c74-8804b110680e.gif)
 
 ## Install
-```
-npm i rolling-number
+```js
+npm i js-rolling-number
 ```
 ## Usage
 ```js
