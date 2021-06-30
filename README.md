@@ -14,7 +14,7 @@ npm i js-rolling-number
 ```
 ## Usage
 ```js
-import rolling from 'rolling-number'
+import rolling from 'js-rolling-number'
 let number = 99
 rolling('.demo', number)
 ```
